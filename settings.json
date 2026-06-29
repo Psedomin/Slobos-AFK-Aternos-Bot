@@ -2,7 +2,7 @@
   "name": "PseCommunity",
   "bot-account": {
     "username": "PseCommunity",
-    "password": "",
+    "password": "1122334455",
     "type": "offline"
   },
   "server": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "1122334455"
     },
     "anti-afk": {
       "enabled": true,
